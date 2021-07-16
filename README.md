@@ -1,1 +1,0 @@
-# algolia-client-side-sorting
